@@ -1,0 +1,26 @@
+{
+  "name": "personal-agent-desk-pet",
+  "version": "1.0.0",
+  "description": "Your own helpful ai pet(under development)",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Torchman005/Personal-Agent-Desk-Pet.git"
+  },
+  "keywords": [
+    "padp"
+  ],
+  "author": "Luminous",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Torchman005/Personal-Agent-Desk-Pet/issues"
+  },
+  "homepage": "https://github.com/Torchman005/Personal-Agent-Desk-Pet#readme",
+  "devDependencies": {
+    "electron": "^40.8.0"
+  }
+}
